@@ -1,0 +1,1 @@
+../../../ALJ/ALJ.uproject  /Game/NewMap -Messaging -SessionId=F818F31C23454A1B08A5CDA6B927456D -SessionOwner="lion" -SessionName="Launch On Device" -iterative
